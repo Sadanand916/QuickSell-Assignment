@@ -1,7 +1,9 @@
 
+
+
 .kanban-board {
   background-color: #e2e2e27e;
-  height: 200vh;
+  height: 180vh; 
   
 }
 .header{
@@ -31,7 +33,7 @@
   
  
   background-color: #ffffff;
-  border: 0.2rem solid rgba(181, 181, 181, 0.637);
+  border: 0.15rem solid rgba(181, 181, 181, 0.637);
   border-radius: 0.4rem;
   padding: 0.3rem;
   display: flex;
@@ -46,14 +48,14 @@
   flex-direction: column;
   align-items: center;
   max-width: fit-content;
-  border: 1px solid black;
+  
   box-shadow: #888;
   border-radius: 1rem;
   margin: 0.3rem;
   padding: 0.8rem;
   margin-top: 0.2rem;
   margin-bottom: 0.2rem;
-  background-color: #e2e2e27e;
+  background-color: #ededed;
   position: absolute;
   top:2rem;
   left: 0%;
